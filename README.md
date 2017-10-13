@@ -1,2 +1,2 @@
 # paypal-integration
-Capstone project spring 2017 Highline College
+Capstone project Spring 2017 Highline College
